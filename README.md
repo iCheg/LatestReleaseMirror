@@ -157,5 +157,16 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="therealaleph--masterhttprelayvpn-rust"></div>
 
+### therealaleph--MasterHttpRelayVPN-RUST
+
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.9</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.9)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhrv-rs-macos-amd64-app.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/iCheg/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64-app.zip) |
+| `mhrv-rs-macos-amd64.tar.gz` | 6.5 MB | [⬇️ Download](https://raw.githubusercontent.com/iCheg/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-amd64.tar.gz) |
+| `mhrv-rs-macos-arm64-app.zip` | 4.3 MB | [⬇️ Download](https://raw.githubusercontent.com/iCheg/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64-app.zip) |
+| `mhrv-rs-macos-arm64.tar.gz` | 6.0 MB | [⬇️ Download](https://raw.githubusercontent.com/iCheg/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-macos-arm64.tar.gz) |
 <!-- RELEASES_END -->
